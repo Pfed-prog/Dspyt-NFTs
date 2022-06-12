@@ -1,6 +1,7 @@
 {
   "name": "dspyt",
   "version": "0.1.0",
+  "homepage" : ".",
   "private": true,
   "browser": {
     "crypto": false,
@@ -21,9 +22,9 @@
     "@testing-library/user-event": "^14.2.0",
     "@textile/hub": "^6.3.4",
     "axios": "^0.27.2",
-    "big.js": "^6.1.1",
+    "big.js": "^6.2.0",
     "fs": "^0.0.1-security",
-    "near-api-js": "^0.44.2",
+    "near-api-js": "^0.45.1",
     "nth-check": "^2.1.1",
     "phosphor-react": "^1.4.0",
     "react": "^17.0.2",
@@ -66,6 +67,6 @@
     "node-polyfill-webpack-plugin": "^1.1.4",
     "postcss": "^8.4.14",
     "react-app-rewired": "^2.1.11",
-    "tailwindcss": "^3.0.22"
+    "tailwindcss": "^3.1.2"
   }
 }
